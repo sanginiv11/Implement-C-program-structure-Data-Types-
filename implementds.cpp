@@ -36,3 +36,17 @@ int main() {
 
     return 0;
 }
+/* OUTPUT
+Enter any integer: 11
+Integer = 11 and size is 4 bytes
+Enter any number with decimal: 
+23.4
+Float = 23.4 and size is 4 bytes
+Enter any word: sangini
+String = sangini and size is 32 bytes
+Enter any number with bigger decimal: 24.9877665
+Double = 7.87263e-85 and size is 8 bytes
+Enter any character: V
+Character = V and size is 1 bytes
+Enter True/False: false'
+Boolean = 0 and size is 1 bytes */
